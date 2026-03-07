@@ -1,4 +1,6 @@
 # COMP3010 - 数据库系统
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
@@ -8,9 +10,13 @@
 ## 授课教师
 
 - 张晓峰
+  <!-- TOML-ITEM: id="review-张晓峰-1" -->
   - 经验老到，对数据库这门课有自己的理解。从 18 级开始由 zxf 老师主管出考试题，由于老师有工业界背景，出的题常常让学生们摸不着头脑。具体可参加 `exam` 目录下的回忆。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 > 太哈人了。
 
@@ -19,6 +25,9 @@
 具体可以参考 `exam` 目录。
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 前几次实验还好，重头戏是后两次。
 
@@ -27,6 +36,9 @@
 最后一次实验需要实现五个查询处理算法（C 语言），代码封装得好可能需要 1k+ 行，封装得不好可能 3k+。正常耗时一周。
 
 ## 作业
+<!-- TOML-SECTION: title="作业" -->
+
+<!-- TOML-ITEM: id="item-作业-1" -->
 
 两次作业，只覆盖了前几章的内容。
 考试前会发布作业题的答案供复习。
