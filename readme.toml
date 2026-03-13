@@ -1,15 +1,14 @@
 course_name = "数据库系统"
-repo_type = "normal"
 course_code = "COMP3010"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "张晓峰"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "经验老到，对数据库这门课有自己的理解。从 18 级开始由 zxf 老师主管出考试题，由于老师有工业界背景，出的题常常让学生们摸不着头脑。具体可参加 `exam` 目录下的回忆。"
-
 
 [[sections]]
 title = "关于考试"
