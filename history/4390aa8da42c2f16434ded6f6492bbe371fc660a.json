@@ -1,0 +1,167 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814710,
+    "hash": "ce5f498fe171e4d5762ecb6688f6df8570241339"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754198104,
+    "hash": "9aa0aaf693d4c2762ccaba90d27235e2baaef48b"
+  },
+  "README.md": {
+    "size": 1494,
+    "time": 1791961515,
+    "hash": "4390aa8da42c2f16434ded6f6492bbe371fc660a"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754198104,
+    "hash": "9aa0aaf693d4c2762ccaba90d27235e2baaef48b"
+  },
+  "assignments/2021/数据库作业一.docx": {
+    "size": 47708,
+    "time": 1755963663,
+    "hash": "ea8041cbbfd6f2c418c70923308c168e078254b2"
+  },
+  "assignments/2021/数据库作业二.docx": {
+    "size": 13414,
+    "time": 1755963663,
+    "hash": "ea8041cbbfd6f2c418c70923308c168e078254b2"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754198104,
+    "hash": "9aa0aaf693d4c2762ccaba90d27235e2baaef48b"
+  },
+  "exams/2018秋数据库系统期末试题_WuuTang.pdf": {
+    "size": 2782649,
+    "time": 1757437314,
+    "hash": "1a8f4e1b939376baccbe15b4fb5f7840aabd5f62"
+  },
+  "exams/2023秋数据库系统期末回忆版.pdf": {
+    "size": 514431,
+    "time": 1757437314,
+    "hash": "1a8f4e1b939376baccbe15b4fb5f7840aabd5f62"
+  },
+  "exams/readme.md": {
+    "size": 272,
+    "time": 1755963683,
+    "hash": "43639031274f9bf1431d23c8a0ee7bdf4a720d7f"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754198104,
+    "hash": "9aa0aaf693d4c2762ccaba90d27235e2baaef48b"
+  },
+  "labs/2021/exp1/0_实验准备 MySQL安装.pdf": {
+    "size": 621234,
+    "time": 1755963683,
+    "hash": "43639031274f9bf1431d23c8a0ee7bdf4a720d7f"
+  },
+  "labs/2021/exp1/1_实验一 MySQL关系数据库管理系统及SQL语言的使用.pdf": {
+    "size": 3078092,
+    "time": 1755963683,
+    "hash": "43639031274f9bf1431d23c8a0ee7bdf4a720d7f"
+  },
+  "labs/2021/exp1/2_实验一 MySQL关系数据库管理系统及SQL语言的使用(2021秋PPT).pdf": {
+    "size": 1772089,
+    "time": 1755963683,
+    "hash": "43639031274f9bf1431d23c8a0ee7bdf4a720d7f"
+  },
+  "labs/2021/exp1/学号_姓名_数据库实验一报告（模板）.docx": {
+    "size": 58057,
+    "time": 1755963713,
+    "hash": "f9c4f2bafa480d289bd037b622c9aa74e084ac34"
+  },
+  "labs/2021/exp2/1_实验二 高级SQL语言实验.pdf": {
+    "size": 617078,
+    "time": 1755963713,
+    "hash": "f9c4f2bafa480d289bd037b622c9aa74e084ac34"
+  },
+  "labs/2021/exp2/2_实验二 高级SQL语言的使用(2021秋PPT).pdf": {
+    "size": 580572,
+    "time": 1755963713,
+    "hash": "f9c4f2bafa480d289bd037b622c9aa74e084ac34"
+  },
+  "labs/2021/exp2/学号_姓名_数据库实验二报告（模板）.docx": {
+    "size": 83380,
+    "time": 1755963713,
+    "hash": "f9c4f2bafa480d289bd037b622c9aa74e084ac34"
+  },
+  "labs/2021/exp3/3.实验三 数据库设计实验指导书.pdf": {
+    "size": 3080209,
+    "time": 1755963867,
+    "hash": "b3dddce2b830fcb4c08ce20918a5449b805a4607"
+  },
+  "labs/2021/exp3/3_实验三 数据库设计（2021秋PPT）.pdf": {
+    "size": 1074891,
+    "time": 1755963713,
+    "hash": "f9c4f2bafa480d289bd037b622c9aa74e084ac34"
+  },
+  "labs/2021/exp4/4-实验四 小型系统的设计与实现（2021秋PPT）.pdf": {
+    "size": 605471,
+    "time": 1755963867,
+    "hash": "b3dddce2b830fcb4c08ce20918a5449b805a4607"
+  },
+  "labs/2021/exp4/4.实验四 小型系统的设计与实现实验指导书.pdf": {
+    "size": 176271,
+    "time": 1755963867,
+    "hash": "b3dddce2b830fcb4c08ce20918a5449b805a4607"
+  },
+  "labs/2021/exp5/实验五 查询处理算法的模拟实现指导书.pdf": {
+    "size": 614696,
+    "time": 1755963867,
+    "hash": "b3dddce2b830fcb4c08ce20918a5449b805a4607"
+  },
+  "labs/2021/exp5/实验五 查询处理算法的模拟实现（2021秋）PPT.pdf": {
+    "size": 1155233,
+    "time": 1755963867,
+    "hash": "b3dddce2b830fcb4c08ce20918a5449b805a4607"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754198104,
+    "hash": "9aa0aaf693d4c2762ccaba90d27235e2baaef48b"
+  },
+  "notes/2021_ailanxier/Database Systems.md": {
+    "size": 109544,
+    "time": 1755963936,
+    "hash": "0d1bdcbf129f8862a953d877237f7e2a2cff2488"
+  },
+  "notes/2021_hewei/readme.md": {
+    "size": 1748,
+    "time": 1755964002,
+    "hash": "a766bd335991afeb445357f2e602e93bade9efb1"
+  },
+  "notes/2021_hewei/数据库事务处理.pdf": {
+    "size": 1295850,
+    "time": 1755963936,
+    "hash": "0d1bdcbf129f8862a953d877237f7e2a2cff2488"
+  },
+  "notes/2021_hewei/数据库基础.pdf": {
+    "size": 1019597,
+    "time": 1755963936,
+    "hash": "0d1bdcbf129f8862a953d877237f7e2a2cff2488"
+  },
+  "notes/2021_hewei/数据库实现.pdf": {
+    "size": 3529701,
+    "time": 1755963936,
+    "hash": "0d1bdcbf129f8862a953d877237f7e2a2cff2488"
+  },
+  "notes/2021_hewei/数据库设计.pdf": {
+    "size": 1556558,
+    "time": 1755963936,
+    "hash": "0d1bdcbf129f8862a953d877237f7e2a2cff2488"
+  },
+  "readme.toml": {
+    "size": 1393,
+    "time": 1773428114,
+    "hash": "4c8a7478bcf90243a3962e2d441247cc5517622c"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754198104,
+    "hash": "9aa0aaf693d4c2762ccaba90d27235e2baaef48b"
+  }
+}
